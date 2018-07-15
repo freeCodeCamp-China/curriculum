@@ -1,15 +1,15 @@
 {
-  "name": "@freecodecamp/curriculum",
+  "name": "@freecodecamp-china/curriculum",
   "description": "freeCodeCamp's curriculum seed files",
   "license": "(BSD-3-Clause AND CC-BY-SA-4.0)",
-  "author": "freeCodeCamp <team@freecodecamp.org>",
-  "homepage": "https://github.com/freeCodeCamp/curriculum#readme",
+  "author": "freeCodeCamp-China",
+  "homepage": "https://github.com/freeCodeCamp-China/curriculum-zh#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/curriculum.git"
+    "url": "https://github.com/freeCodeCamp-China/curriculum-zh.git"
   },
   "bugs": {
-    "url": "https://github.com/freeCodeCamp/curriculum/issues"
+    "url": "https://github.com/freeCodeCamp-China/curriculum-zh/issues"
   },
   "version": "3.0.1",
   "main": "dist/index.js",
